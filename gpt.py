@@ -16,7 +16,7 @@ mem = []
 cache = ""
 inputLOCK = True
 mem_filename = "mem.txt"
-name = "Kanori"
+name = "Neko"
 
 plugins = [
     '在cmd执行"python gettime.py"可获取当前时间和日期.',
