@@ -10,7 +10,7 @@ import openai
 import tiktoken
 from simtext import similarity
 
-openai.api_key = "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"
+openai.api_key = ""
 sim = similarity()
 mem = []
 cache = ""
